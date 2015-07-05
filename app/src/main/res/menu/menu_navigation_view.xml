@@ -1,0 +1,31 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+      xmlns:app="http://schemas.android.com/apk/res-auto"
+      xmlns:tools="http://schemas.android.com/tools"
+      tools:context="com.designsupportlibrary.ui.activities.NavigationViewActivity"
+    >
+      <item
+            android:title="One"
+            android:orderInCategory="100"
+
+            app:showAsAction="never"
+          />
+      <item
+            android:title="Two"
+            android:orderInCategory="100"
+            app:showAsAction="never"/>
+      <item
+          android:title="Three"
+          android:orderInCategory="100"
+          app:showAsAction="never"/>
+      <item
+          android:title="Four"
+          android:orderInCategory="100"
+          app:showAsAction="never"/>
+      <item
+          android:title="Five"
+          android:orderInCategory="100"
+          app:showAsAction="never"/>
+
+
+
+</menu>

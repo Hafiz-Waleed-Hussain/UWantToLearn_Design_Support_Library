@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array name="recylerViewData">
+        <item>Text Input Layout</item>
+        <item>Floating Action Button</item>
+        <item>Snack Bar</item>
+        <item>Material Design Tab</item>
+        <item>Navigation View</item>
+        <item>Coordinator Layout with FAB</item>
+        <item>Coordinator Layout with App Bar</item>
+        <item>Collapsing Toolbar Layout</item>
+    </array>
+</resources>

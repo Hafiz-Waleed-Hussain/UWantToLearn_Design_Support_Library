@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">DesignSupportLibrary</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_text_input_layout">TextInputLayoutActivity</string>
+    <string name="success">Success</string>
+    <string name="errors">Errors</string>
+    <string name="username_empty_not_allowed">Username empty not allowed</string>
+    <string name="password_empty_not_allowed">Password empty not allowed</string>
+    <string name="title_activity_floating_action_button">FloatingActionButtonActivity</string>
+    <string name="title_activity_material_design_tab">MaterialDesignTabActivity</string>
+    <string name="title_activity_navigation_view">NavigationViewActivity</string>
+    <string name="title_activity_coordinate_layout">CoordinateLayoutActivity</string>
+    <string name="title_activity_coordinator_layout_with_app_bar">CoordinatorLayoutWithAppBar
+    </string>
+    <string name="title_activity_collapsing_toolbar_layout">CollapsingToolbarLayoutActivity</string>
+    <string name="design_support_library">Design Support Library</string>
+    <string name="this_is_title">This is Title</string>
+    <string name="this_is_a_sentence">"This is a sentence no "</string>
+    <string name="wow_i_am_happy">Wow. I am happy :)</string>
+    <string name="this_is_a_sentence_number">"This is a sentence no "</string>
+    <string name="one">One</string>
+    <string name="two">Two</string>
+    <string name="three">Three</string>
+    <string name="four">Four</string>
+    <string name="wow_so_simple">Wow so simple</string>
+    <string name="undo">Undo</string>
+    <string name="undo_action">undo action</string>
+</resources>

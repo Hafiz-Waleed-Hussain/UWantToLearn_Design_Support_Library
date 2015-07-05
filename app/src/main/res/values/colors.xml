@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <color name="blue">#01579B</color>
+
+
+
+    <!-- Brown Theme -->
+    <color name="colorPrimary">#795548</color>
+    <color name="colorPrimaryDark">#5D4037</color>
+    <color name="colorAccent">#3E2723</color>
+    <color name="backgroundColor">#BCAAA4</color>
+
+     <!--Green Theme-->
+    <!--<color name="colorPrimary">#4CAF50</color>-->
+    <!--<color name="colorPrimaryDark">#388E3C</color>-->
+    <!--<color name="colorAccent">#1B5E20</color>-->
+    <!--<color name="backgroundColor">#A5D6A7</color>-->
+
+    <!-- Orange Theme -->
+    <!--<color name="colorPrimary">#FF9800</color>-->
+    <!--<color name="colorPrimaryDark">#F57C00</color>-->
+    <!--<color name="colorAccent">#E65100</color>-->
+    <!--<color name="backgroundColor">#FFCC80</color>-->
+
+    <!-- Indigo -->
+    <!--<color name="colorPrimary">#3F51B5</color>-->
+    <!--<color name="colorPrimaryDark">#303F9F</color>-->
+    <!--<color name="colorAccent">#1A237E</color>-->
+    <!--<color name="backgroundColor">#9FA8DA</color>-->
+
+</resources>
